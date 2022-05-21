@@ -1,4 +1,4 @@
-ibody
+body
 {
     background: #1e1f24;
     color: #333;
@@ -54,14 +54,7 @@ ibody
 #footer
 {
     background: #777;
-<<<<<<< HEAD
     color: white;
     text-align: center;
     padding: 0.5em;
 }
-=======
-    color white;
-    text-align: center
-}
-
->>>>>>> cc648ed91a387e9c5155e35cd9331069f0b579f6
